@@ -67,4 +67,4 @@ Full-stack developer specializing in TypeScript and JavaScript. I build scalable
 
 ## Contact
 
-[GitHub](https://github.com/Mbayesagna) • Email: [your-email@example.com]
+[GitHub](https://github.com/Mbayesagna) • Email: [mbayesagnafaye2@gmail.com]
