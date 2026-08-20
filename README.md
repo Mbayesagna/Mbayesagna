@@ -1,4 +1,4 @@
-# Salut, moi c'est Mbaye
+# Salut, moi c'est Mbaye Sagna FAYE
 
 **Full-Stack Developer & Fondateur Solo** — Je construis des **SaaS innovants** pour l'écosystème africain
 
@@ -15,7 +15,7 @@
 
 ## À propos
 
-Développeur **full-stack** basé à **Dakar**, spécialisé en **TypeScript, React, Next.js et Node.js**. Je conçois seul — du code à la vente — des applications web modernes et des solutions fintech pour l'Afrique.
+Développeur **full-stack** basé à **Diourbel**, spécialisé en **TypeScript, React, Next.js et Node.js**. Je conçois seul — du code à la vente — des applications web modernes et des solutions fintech pour l'Afrique.
 
 **Domaines d'expertise:**
 - IA générative (Genkit, DeepSeek)
@@ -104,10 +104,7 @@ IA: DeepSeek-V3, Gemini TTS
 
 ---
 
-## Formation & Certifications
-
-**Licence en Linguistique Anglaise et Grammaire**  
-Université Virtuelle du Sénégal
+## Certifications
 
 **Certifications Professionnelles:**
 
