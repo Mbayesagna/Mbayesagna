@@ -71,8 +71,6 @@ Most of my repositories are private because they are commercial products. The li
 **AI and testing**
 
 ![Genkit](https://img.shields.io/badge/Genkit-4285F4?style=flat&logo=firebase&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=flat&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
